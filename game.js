@@ -59,7 +59,7 @@ function KeyboardListener() {
 }
 
 // Class Character.
-function Character() {
+function Character() {a
  // Properties.
  this.image = new Image(); this.image.src = "Imagenes/goku.png";
  this.xPos = 51111; this.yPos = 300;
